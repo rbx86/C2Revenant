@@ -1,0 +1,9 @@
+server/venv/
+server/__pycache__/
+server/**/__pycache__/
+*.pyc
+*.pyo
+server/c2.db
+beacon-rs/target/
+.DS_Store
+Thumbs.db
