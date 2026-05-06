@@ -1,5 +1,7 @@
 # C2 Framework Guid :D
 
+![](assets/Screenshot_20260427_105453.png)
+
 ## Setting up enviornment
 
 1. Installing system dependencies
